@@ -1,0 +1,22 @@
+nav 
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+
+}
+nav ul{
+  display: flex;
+}
+nav ul li
+{
+  list-style-type: none;
+  font-size: 20px;
+  display: inline-block;
+  padding: 5%;
+  margin-left: 10%;
+}
+.navItems li
+{
+  margin-left: 50px;
+}
